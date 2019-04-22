@@ -1,1 +1,1 @@
-A simple repository to consolidate SQL practice activities 
+A simple repository to consolidate SQL practice activities
